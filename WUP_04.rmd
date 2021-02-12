@@ -84,3 +84,6 @@ LT High School-Graduate and High School-Graduate are the only two that are stati
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based on the data provided there is a difference in WORDSUM test performance between graduate students, who did better than high school students and Lt high school students. In all other cases there is no difference. 
+
